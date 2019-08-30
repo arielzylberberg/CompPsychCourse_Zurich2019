@@ -1,4 +1,4 @@
-addpath('../functions_addtopath/')
+addpath(genpath('../functions_addtopath/'))
 
 load ../test_data/test_data.mat
 
